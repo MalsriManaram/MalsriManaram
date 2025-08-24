@@ -201,8 +201,10 @@
 
 ## Snake & Contributins
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alurubalakarthikeya/alurubalakarthikeya/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/MalsriManaram/MalsriManaram/output/snake.svg" alt="Snake animation" />
 </p>
+
+
 
 ##  My Analytics
 
@@ -210,13 +212,13 @@
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=malsrimanaram&show_icons=true&theme=radical&hide_border=true&locale=en" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api?username=malsrimanaram&show_icons=true&theme=default&hide_border=true&locale=en" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=malsrimanaram&show_icons=true&hide_border=true&locale=en" height="210" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=malsrimanaram&show_icons=true&hide_border=true&locale=en" height="200" alt="GitHub Stats" />
   </picture>
 
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=malsrimanaram&layout=compact&theme=radical&hide_border=true" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=malsrimanaram&layout=compact&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malsrimanaram&layout=compact&hide_border=true" height="210" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malsrimanaram&layout=compact&hide_border=true" height="200" alt="Top Languages" />
   </picture>
 </p>
 
@@ -224,7 +226,7 @@
   <picture>
     <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=malsrimanaram&theme=radical&hide_border=true" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=malsrimanaram&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=malsrimanaram&hide_border=true" height="210" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=malsrimanaram&hide_border=true" height="200" alt="GitHub Streak" />
   </picture>
 </p>
 
