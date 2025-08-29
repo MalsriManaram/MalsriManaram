@@ -43,19 +43,19 @@
 
 ##  Connect with me:
 <p align="center">
-  <a href="https://linkedin.com/in/malsri manaram" target="blank">
+  <a href="https://lk.linkedin.com/in/malsri-manaram-871628245" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="linkedin" height="50" width="60" />
   </a>
   
-  <a href="https://kaggle.com/malsrimanaram" target="blank">
+  <a href="https://www.kaggle.com/malsrimanaram" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="50" width="60" />
   </a>
   
-  <a href="https://fb.com/malsri manaram" target="blank">
+  <a href="https://fb.com/malsrimanaram" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fb" height="50" width="60" />
   </a>
   
-  <a href="https://instagram.com/_malsri_manaram_" target="blank">
+  <a href="https://www.instagram.com/_malsri_manaram_/" target="blank">
     <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="instagram" height="50" width="60" />
   </a>
   
